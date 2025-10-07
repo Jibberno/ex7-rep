@@ -24,7 +24,25 @@ img {
   color: darkcyan;
 }
 
+a:link {
+  color: blue;
+}
 
+a:visited {
+  color: darkred;
+}
+
+a:active {
+  color: orange;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: none;
+}
 
 /*No touch*/
 h1, h2, nav, .cap, footer {
