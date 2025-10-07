@@ -25,15 +25,15 @@ img {
 }
 
 a:link {
-  color: blue;
+  color: gray;
 }
 
 a:visited {
-  color: darkred;
+  color: slategray;
 }
 
 a:active {
-  color: orange;
+  color: darkslategray;
 }
 
 a:hover{
