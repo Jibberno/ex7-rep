@@ -1,5 +1,11 @@
 /*Add your CSS here*/
-
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  color: black;
+  font-size: 16;
+}
 
 
 
